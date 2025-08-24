@@ -42,8 +42,6 @@ CREATE TABLE recipients (
     phone VARCHAR(20)
 );
 
-
-
 --
 -- Table structure for table `rcti`
 --
